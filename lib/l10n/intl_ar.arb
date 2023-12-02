@@ -1,0 +1,15 @@
+{
+    "azkar": "الأذكار",
+    "morningAzkar": "أذكار الصباح والمساء",
+    "eveningAzkar": "أذكار النوم",
+    "prayerAzkar": "أذكار الاستيقاظ من النوم",
+    "sleepAzkar": "دعاء دخول الخلاء",
+    "variousAzkar": "دعاء الخروج من الخلاء",
+    "nightPrayerAzkar": "دعاء الهم والحزن",
+    "electronicRosary": "السبحة الالكترونية",
+    "fajr": "الفجر",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء"
+}
